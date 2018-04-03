@@ -40,7 +40,7 @@
     #define ZMQ_EXPLICIT
 #endif
 
-#include <zmq.h>
+#include <libzmq/include/zmq.h>
 
 #include <cassert>
 #include <cstring>
